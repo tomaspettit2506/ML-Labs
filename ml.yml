@@ -15,7 +15,6 @@ dependencies:
   - notebook
   - ipykernel
   - jupyterlab
-  - glob
   - pip:
     - seaborn
     - plotly
